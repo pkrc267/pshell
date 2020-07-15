@@ -1,0 +1,14 @@
+NAME
+    history - displays the commands entered by user
+SYNOPSIS
+    history
+DESCRIPTION
+    history is a builtin command for pshell. It can displays the last commands 
+    entered by the user since the start of the shell driver program. Maximum of ten
+	commands are displayed at a time.
+BUGS
+    More than hundred commands may cause overflow in the storage of the history
+    feature. This bug-fix is on the way and will be available in next version.
+AUTHOR
+    Prakhar Yadav (h20190032@goa.bits-pilani.ac.in)
+

@@ -1,0 +1,12 @@
+NAME
+    man \- manual page
+SYNOPSIS
+    man <command_name>
+DESCRIPTION
+    man is a builtin command for pshell. It can display man page for pshell builtins
+    as well as other commands available in linux. It uses groff for displaying command
+    information that are not in pshell.
+BUGS
+    No known bugs.
+AUTHOR
+    Prakhar Yadav (h20190032@goa.bits-pilani.ac.in)

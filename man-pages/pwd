@@ -1,0 +1,11 @@
+NAME
+    pwd \- prints the current working directory
+SYNOPSIS
+    pwd
+DESCRIPTION
+    pwd is a builting command for pshell. It is not to be confused with pwd command
+    of bash shell. Although both have similar implementation.
+BUGS
+    No known bugs.
+AUTHOR
+    Prakhar Yadav (h20190032@goa.bits-pilani.ac.in)

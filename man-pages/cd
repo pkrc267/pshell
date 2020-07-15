@@ -1,0 +1,16 @@
+NAME
+    cd \- change directory
+SYNOPSIS
+    cd [options]
+OPTIONS
+    ..
+        used to go back to immidiate parent directory.
+    <path>
+        used to go to directory provided in the path.
+DESCRIPTION
+    cd is a builtin command for pshell and is not to be confused with cd builtin
+    command of bash shell.
+BUGS
+    No known bugs.
+AUTHOR
+    Prakhar Yadav (h20190032@goa.bits-pilani.ac.in)

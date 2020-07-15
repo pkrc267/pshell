@@ -1,0 +1,11 @@
+NAME
+    help \- list available builtin commands
+SYNOPSIS
+    help
+DESCRIPTION
+    help command is a builtin command for pshell. It is not to be confused with
+    help command of bash shell, as it is an independent implementation.
+BUGS
+    No known bugs.
+AUTHOR
+    Prakhar Yadav (h20190032@goa.bits-pilani.ac.in)

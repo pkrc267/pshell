@@ -1,0 +1,10 @@
+NAME
+    exit \- exit the shell
+SYNOPSIS
+    exit
+DESCRIPTION
+    exit is a pshell builtin command, used for exiting from pshell.
+BUGS
+    No known bugs.
+AUTHOR
+    Prakhar Yadav (h20190032@goa.bits-pilani.ac.in)
